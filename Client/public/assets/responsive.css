@@ -1,0 +1,145 @@
+@media (min-width: 992px) and (max-width: 1300px) {
+    .header .header-bottom .menu ul li a {
+        padding-left: 17px;
+    }
+    .our_activity .single-Promo {
+        margin: 100px 30px 0;
+        padding: 40px 30px;
+    }
+    .our_activity .single-Promo p {
+        text-align: justify;
+    }
+    .donors .donors_input h4 select {
+        max-width: 483px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .header .header-bottom .main-logo {
+        margin: 10px 0;
+        text-align: center;
+    }
+    .header .header-bottom .menu {
+        margin: 3px 0;
+    }
+    .header .header-bottom .menu ul li a {
+        margin-right: 20px;
+        padding-left: 20px;
+    }
+    .volunteer_area .item img {
+        width: 100%;
+    }
+    .volunteer_area .item .text {
+        max-width: 100%!important;
+    }
+    br {
+        display: none;
+    }
+    .donors .donors_input {
+        width: 100%;
+        float: none;
+    }
+    .donors .donors_image {
+        float: left;
+        width: 100%;
+    }
+    .donors .donors_input h2,
+    .donors .donors_image h2 {
+        padding-top: 60px;
+    }
+    .footer_carosal .footer_carosal_icon .item img {
+        width: 100px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .header .header-bottom .menu ul li a {
+        margin-right: 20px;
+        padding-left: 20px;
+    }
+    .header .header-bottom .menu {
+        margin: 0px 0;
+    }
+    .header .header-top .contact p span {
+        margin-right: 8px;
+    }
+    header.header .header-top .join-us {
+        display: none;
+    }
+    .main-logo {
+        text-align: center;
+    }
+    .carosal-area .text>h3 {
+        margin-top: 40px;
+    }
+    .carosal-area .owl-dots {
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+    .carosal-area .text>p {
+        text-align: justify;
+    }
+    br {
+        display: none
+    }
+    .donors .donors_input {
+        float: none;
+        width: 100%;
+        padding: 10px;
+    }
+    .donors .donors_image {
+        float: left;
+        width: 100%;
+    }
+    .donors .donors_input h2,
+    .donors .donors_image h2 {
+        padding-top: 60px;
+    }
+    .donors .donors_input h4 select {
+        width: 100%;
+    }
+    .donate_section .progress-text {
+        width: 100%;
+    }
+    .donors .donors_input h2,
+    .donors .donors_image h2 {
+        padding-top: 20px;
+    }
+    .donate_section p {
+        text-align: justify;
+    }
+    .progress-text p.progress-top {
+        text-align: center;
+    }
+    .donors .donors_input h2,
+    .donors .donors_image h2 {
+        margin: 0px 0 50px;
+    }
+    .donors .donors_input p input {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .block-wrapper {
+        margin-top: 30px;
+        padding: 0px 0;
+    }
+    header.header .nav.navbar-nav>li {
+        display: inline-block;
+        position: relative;
+    }
+    .volunteer_area .item img {
+        width: 100%;
+    }
+    .volunteer_area .item .text {
+        width: 100%!important;
+    }
+    .main-logo {
+        margin: 0;
+    }
+    .owl-theme .owl-nav {
+        display: none;
+    }
+    .carosal_bottom {
+        height: auto;
+    }
+}
